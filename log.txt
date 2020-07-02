@@ -1,0 +1,450 @@
+Jul 02, 2020 9:48:47 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 9:48:49 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 9:48:51 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 9:48:52 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 9:55:51 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 9:55:54 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 9:56:03 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 9:56:16 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 9:56:17 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 9:57:10 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 9:57:12 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 9:57:18 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 9:57:20 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 9:57:45 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 9:57:47 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 9:57:54 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 9:57:55 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 9:59:01 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 9:59:03 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 9:59:20 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 9:59:21 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:00:32 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:00:34 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:01:21 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:01:23 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:01:29 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:06:08 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:06:10 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:06:36 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:06:37 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:07:02 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:07:04 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:07:23 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:07:25 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:12:22 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:12:23 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:12:45 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:12:45 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:14:02 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:14:04 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:15:45 AM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jul 02, 2020 10:15:45 AM com.dhahaj.Main doLogout
+INFO: Not Logged In user logged off.
+Jul 02, 2020 10:16:12 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:16:46 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:16:48 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:17:24 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:17:27 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:17:28 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:17:37 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:17:38 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:17:54 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:17:56 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:18:11 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:18:58 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:19:00 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:19:13 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:19:20 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:19:21 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:20:17 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:20:19 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:20:29 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:20:30 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:20:59 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:20:59 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:21:11 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:21:12 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:21:35 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:21:36 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:21:45 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:21:46 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:22:10 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:22:12 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:22:22 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:22:23 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:22:42 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:22:44 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:23:37 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:23:40 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:24:32 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:24:34 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:25:00 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:25:00 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:25:59 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:26:01 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:26:26 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:26:32 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:26:34 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:26:36 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:27:25 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:27:26 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:27:55 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:27:56 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:28:05 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:28:07 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:28:33 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:28:34 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:28:47 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:28:49 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:28:57 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:29:01 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:29:03 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:29:57 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:29:59 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:30:12 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:30:13 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:30:43 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:30:45 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:30:55 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:30:56 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:32:57 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:32:59 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:33:07 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:33:12 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:33:12 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:33:53 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:33:55 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:33:57 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:34:03 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:34:03 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:35:37 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:35:38 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:35:42 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:35:45 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:35:46 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:37:14 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:37:17 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:37:26 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:37:37 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:37:57 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:37:58 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:38:02 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:38:04 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:38:05 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:39:26 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:39:28 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:39:30 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:39:43 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:39:50 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:39:51 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:49:20 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:49:21 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:49:48 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:49:56 AM com.dhahaj.Main$9 done
+INFO: Programming Device:EAX500, Return Value=2
+Jul 02, 2020 10:50:16 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:50:17 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:52:07 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:52:08 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:52:10 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:52:31 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:53:48 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:53:51 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:54:04 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:54:04 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:54:51 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:54:52 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:55:04 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:55:58 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:56:00 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:56:03 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:56:03 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:56:16 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:56:18 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:56:25 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:56:33 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:56:34 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:56:42 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:56:44 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:56:45 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:57:16 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:57:16 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:57:54 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:57:55 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:58:02 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:58:13 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:58:13 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:58:23 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:58:25 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:58:27 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:58:33 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:58:34 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:58:46 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:58:48 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:58:49 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 10:59:03 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 10:59:05 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 10:59:44 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 10:59:45 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 10:59:47 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 11:00:40 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 11:00:41 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 11:02:05 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 11:02:06 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 11:02:08 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 11:02:26 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 11:02:27 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 11:02:51 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 11:02:53 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 11:02:56 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 11:03:17 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 11:03:18 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 11:03:59 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 11:04:01 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 11:04:02 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 11:04:41 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 11:04:41 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 11:04:53 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 11:04:54 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 11:04:55 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 11:05:12 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 11:05:13 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 11:05:48 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 11:05:50 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 11:05:52 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 11:06:03 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 11:06:03 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 11:06:41 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 11:06:42 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 11:06:44 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 11:07:07 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 11:07:08 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jul 02, 2020 11:07:15 AM com.dhahaj.Main main
+INFO: Software starting.
+Jul 02, 2020 11:07:16 AM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jul 02, 2020 11:07:18 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jul 02, 2020 11:07:58 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jul 02, 2020 11:07:58 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
