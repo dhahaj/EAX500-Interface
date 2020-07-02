@@ -1,0 +1,126 @@
+Jun 07, 2020 11:43:06 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 11:43:40 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 11:46:16 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 11:46:20 AM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: SDO
+Jun 07, 2020 11:53:28 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 11:53:34 AM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: SDO
+Jun 07, 2020 11:56:28 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 11:56:33 AM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: SDO
+Jun 07, 2020 11:57:31 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 11:57:35 AM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: SDO
+Jun 07, 2020 11:58:02 AM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: DMH
+Jun 07, 2020 12:00:09 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 12:00:13 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: DMH
+Jun 07, 2020 9:07:03 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:07:12 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:09:51 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:09:54 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:10:39 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:10:42 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:11:25 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:11:28 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:17:09 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:17:12 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:17:49 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:17:51 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:18:30 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:18:33 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:19:25 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:19:27 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:25:56 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:25:59 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:32:50 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:34:17 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:34:20 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:35:54 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:35:56 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:37:18 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:37:20 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:38:11 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:38:13 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:41:58 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:42:01 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:42:44 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:42:47 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:46:06 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:46:09 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:47:52 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:47:54 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:49:16 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:49:18 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:52:21 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:52:23 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:54:05 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:54:09 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 9:55:36 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 9:55:38 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 10:00:21 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 10:00:23 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 10:02:31 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 10:02:34 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 10:02:48 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 07, 2020 10:02:52 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test
+Jun 07, 2020 10:03:14 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: test

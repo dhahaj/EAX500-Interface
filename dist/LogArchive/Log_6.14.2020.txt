@@ -1,0 +1,22 @@
+Jun 14, 2020 2:40:58 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 14, 2020 2:41:11 PM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 14, 2020 2:41:27 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 14, 2020 2:46:33 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 14, 2020 2:46:34 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 14, 2020 2:46:38 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 14, 2020 2:47:05 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 14, 2020 2:47:07 PM com.dhahaj.Main$14 actionPerformed
+INFO: Testing started.
+Jun 14, 2020 2:47:16 PM com.dhahaj.Main$14 actionPerformed
+INFO: Testing finished.
+Jun 14, 2020 2:47:49 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 14, 2020 2:47:49 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.

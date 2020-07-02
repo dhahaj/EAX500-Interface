@@ -1,0 +1,12 @@
+Jun 08, 2020 9:24:04 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 08, 2020 9:24:06 PM com.dhahaj.Main main
+INFO: Error connecting to tester.
+Jun 08, 2020 9:24:57 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 08, 2020 9:25:00 PM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 08, 2020 9:27:24 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 08, 2020 9:27:26 PM com.dhahaj.Main main
+WARNING: Error connecting to tester.

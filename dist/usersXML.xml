@@ -1,0 +1,17 @@
+<usersXML>
+   <users class="java.util.ArrayList">
+      <user name="A0" password="49, 50, 51, 52" admin="true"/>
+      <user name="BTA" password="49, 52, 49, 57" admin="false"/>
+      <user name="DEM" password="49, 49, 49, 57, 48, 50" admin="false"/>
+      <user name="DMH" password="68, 56, 53, 51" admin="true"/>
+      <user name="IGR" password="73, 90, 90, 89, 71, 76, 69, 78" admin="false"/>
+      <user name="MA" password="48, 51, 50, 53" admin="false"/>
+      <user name="MLL" password="76, 85, 76, 85" admin="false"/>
+      <user name="MVG" password="51, 45, 50, 55, 45, 53, 45, 51, 48" admin="false"/>
+      <user name="RLP" password="49, 57, 53, 57" admin="false"/>
+      <user name="SLT" password="49, 56, 49, 50" admin="false"/>
+      <user name="SM" password="48, 48, 48, 48" admin="true"/>
+      <user name="SDO" password="48, 48, 48, 48" admin="true"/>
+      <user name="TEST" password="48" admin="true"/>
+   </users>
+</usersXML>
