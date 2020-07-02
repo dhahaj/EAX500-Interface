@@ -1,0 +1,174 @@
+Jun 15, 2020 2:11:49 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 2:15:00 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 2:15:22 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 15, 2020 2:16:00 PM com.dhahaj.Main$15 actionPerformed
+INFO: Testing started.
+Jun 15, 2020 2:16:06 PM com.dhahaj.Main$15 actionPerformed
+INFO: Testing finished.
+Jun 15, 2020 2:16:09 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 2:16:10 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 3:50:57 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 3:51:03 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 3:51:04 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 3:51:07 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 3:51:23 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 3:51:24 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 3:51:55 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 3:52:05 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 15, 2020 3:52:15 PM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 15, 2020 3:52:21 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 3:52:22 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 5:44:48 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 5:45:35 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 5:45:35 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 5:45:39 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 5:46:49 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 5:46:50 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 5:46:54 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 5:49:01 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 5:49:02 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 5:49:06 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 5:53:10 PM com.dhahaj.Main lambda$null$7
+INFO: User auto logoff.
+Jun 15, 2020 5:53:10 PM com.dhahaj.Main doLogout
+INFO: Not Logged In user logged off.
+Jun 15, 2020 5:54:08 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 5:54:09 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 5:54:44 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 5:55:26 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 5:55:26 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 5:55:29 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 5:56:23 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 5:56:23 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 5:56:26 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 5:56:48 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 5:56:49 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 5:57:18 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 5:58:27 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 5:58:27 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 5:58:30 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:00:07 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:00:07 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:02:58 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:03:22 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:03:22 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:03:44 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:04:10 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:04:11 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:04:50 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:05:19 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:05:19 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:08:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:08:53 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:08:55 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:11:47 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:15:00 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:15:01 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:15:03 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:15:59 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:16:00 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:16:10 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:16:58 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:16:58 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:17:00 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:17:08 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:17:08 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:24:46 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:25:17 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:25:18 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:25:50 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:27:56 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:28:11 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:28:12 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:28:27 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:28:35 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:28:35 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:29:24 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:29:30 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:29:31 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 15, 2020 6:35:39 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 15, 2020 6:35:57 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 15, 2020 6:35:57 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.

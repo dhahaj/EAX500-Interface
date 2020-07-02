@@ -1,0 +1,2 @@
+Jun 07, 2020 11:43:06 AM com.dhahaj.Main main
+INFO: Software starting.

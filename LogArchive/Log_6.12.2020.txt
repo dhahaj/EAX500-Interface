@@ -1,0 +1,134 @@
+Jun 12, 2020 8:19:55 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 8:20:01 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 8:20:25 AM com.dhahaj.Main$10 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 12, 2020 8:23:01 AM com.dhahaj.Main lambda$null$6
+INFO: User auto logoff.
+Jun 12, 2020 8:23:01 AM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 12, 2020 8:24:01 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 8:24:02 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 8:24:19 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 8:24:22 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 8:24:29 AM com.dhahaj.Main$10 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 12, 2020 8:24:32 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 8:24:32 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 8:24:48 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 8:24:50 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 8:24:55 AM com.dhahaj.Main$10 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 12, 2020 8:24:55 AM com.dhahaj.Main$12 actionPerformed
+INFO: Testing started.
+Jun 12, 2020 8:25:05 AM com.dhahaj.Main$12 actionPerformed
+INFO: Testing finished.
+Jun 12, 2020 8:25:08 AM com.dhahaj.Main$12 actionPerformed
+INFO: Testing started.
+Jun 12, 2020 8:26:08 AM com.dhahaj.Main$12 actionPerformed
+INFO: Testing finished.
+Jun 12, 2020 8:26:17 AM com.dhahaj.Main$10 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 12, 2020 8:26:17 AM com.dhahaj.Main$12 actionPerformed
+INFO: Testing started.
+Jun 12, 2020 8:27:17 AM com.dhahaj.Main$12 actionPerformed
+INFO: Testing finished.
+Jun 12, 2020 8:30:17 AM com.dhahaj.Main lambda$null$6
+INFO: User auto logoff.
+Jun 12, 2020 8:30:17 AM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 12, 2020 8:31:23 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 8:31:23 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 8:38:41 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 8:38:50 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 8:39:04 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 8:39:05 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 8:42:24 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 8:42:34 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 8:42:35 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 8:43:16 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 9:12:04 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 9:12:04 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 9:55:31 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 9:55:34 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 9:57:10 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 9:57:10 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 9:58:22 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 9:58:26 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 9:58:32 AM com.dhahaj.Main lambda$null$6
+INFO: User auto logoff.
+Jun 12, 2020 9:58:32 AM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 12, 2020 9:58:39 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 9:58:39 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 9:58:48 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 9:58:56 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 9:59:01 AM com.dhahaj.Main lambda$null$6
+INFO: User auto logoff.
+Jun 12, 2020 9:59:01 AM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 12, 2020 9:59:06 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 9:59:13 AM com.dhahaj.Main lambda$null$6
+INFO: User auto logoff.
+Jun 12, 2020 9:59:13 AM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 12, 2020 9:59:16 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 9:59:16 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 1:27:10 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 1:27:14 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 1:27:36 PM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX300, Return Value=2
+Jun 12, 2020 1:27:59 PM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX300, Return Value=2
+Jun 12, 2020 1:28:37 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 1:28:37 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 12, 2020 1:29:30 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 12, 2020 1:29:33 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 12, 2020 1:29:41 PM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX300, Return Value=2
+Jun 12, 2020 1:29:50 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 1:30:54 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 12, 2020 1:30:55 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.

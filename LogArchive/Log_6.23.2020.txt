@@ -1,0 +1,777 @@
+Jun 23, 2020 1:30:42 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 1:31:07 PM com.dhahaj.Main main
+WARNING: Connection timeout.
+Please, make sure the board runs a firmware that supports Firmata protocol.
+The firmware has to implement callbacks for CAPABILITY_QUERY, PIN_STATE_QUERY and ANALOG_MAPPING_QUERY in order for the initialization to work.
+Jun 23, 2020 1:31:18 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 1:31:39 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: A0
+Jun 23, 2020 1:31:41 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 1:31:42 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 1:36:12 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 1:36:29 PM com.dhahaj.Main main
+WARNING: Connection timeout.
+Please, make sure the board runs a firmware that supports Firmata protocol.
+The firmware has to implement callbacks for CAPABILITY_QUERY, PIN_STATE_QUERY and ANALOG_MAPPING_QUERY in order for the initialization to work.
+Jun 23, 2020 1:36:32 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 1:36:45 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 1:36:46 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 3:53:32 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 3:53:51 PM com.dhahaj.Main main
+WARNING: Connection timeout.
+Please, make sure the board runs a firmware that supports Firmata protocol.
+The firmware has to implement callbacks for CAPABILITY_QUERY, PIN_STATE_QUERY and ANALOG_MAPPING_QUERY in order for the initialization to work.
+Jun 23, 2020 3:53:53 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 3:53:54 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 4:29:20 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 4:29:45 PM com.dhahaj.Main main
+WARNING: Connection timeout.
+Please, make sure the board runs a firmware that supports Firmata protocol.
+The firmware has to implement callbacks for CAPABILITY_QUERY, PIN_STATE_QUERY and ANALOG_MAPPING_QUERY in order for the initialization to work.
+Jun 23, 2020 4:29:47 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 4:29:48 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 4:57:10 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 4:57:30 PM com.dhahaj.Main main
+WARNING: Connection timeout.
+Please, make sure the board runs a firmware that supports Firmata protocol.
+The firmware has to implement callbacks for CAPABILITY_QUERY, PIN_STATE_QUERY and ANALOG_MAPPING_QUERY in order for the initialization to work.
+Jun 23, 2020 4:57:36 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 4:57:43 PM com.dhahaj.Main$7 actionPerformed
+SEVERE: null
+java.io.IOException: Cannot start firmata device
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:65)
+	at org.firmata4j.firmata.FirmataDevice.start(FirmataDevice.java:178)
+	at com.dhahaj.Main$7.actionPerformed(Main.java:399)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.AbstractButton.doClick(AbstractButton.java:376)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:842)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:886)
+	at java.awt.Component.processMouseEvent(Component.java:6539)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6304)
+	at java.awt.Container.processEvent(Container.java:2239)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4904)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4476)
+	at java.awt.Container.dispatchEventImpl(Container.java:2283)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: jssc.SerialPortException: Port name - COM8; Method name - openPort(); Exception type - Port busy.
+	at jssc.SerialPort.openPort(SerialPort.java:162)
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:56)
+	... 40 more
+
+Jun 23, 2020 4:58:37 PM com.dhahaj.Main$7 actionPerformed
+SEVERE: null
+java.io.IOException: Cannot start firmata device
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:65)
+	at org.firmata4j.firmata.FirmataDevice.start(FirmataDevice.java:178)
+	at com.dhahaj.Main$7.actionPerformed(Main.java:399)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.AbstractButton.doClick(AbstractButton.java:376)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:842)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:886)
+	at java.awt.Component.processMouseEvent(Component.java:6539)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6304)
+	at java.awt.Container.processEvent(Container.java:2239)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4904)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4476)
+	at java.awt.Container.dispatchEventImpl(Container.java:2283)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: jssc.SerialPortException: Port name - COM8; Method name - openPort(); Exception type - Port busy.
+	at jssc.SerialPort.openPort(SerialPort.java:162)
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:56)
+	... 40 more
+
+Jun 23, 2020 4:59:41 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 4:59:41 PM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 23, 2020 5:01:46 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 5:01:47 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 5:01:49 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 5:01:54 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 5:02:10 PM com.dhahaj.Main main
+WARNING: Connection timeout.
+Please, make sure the board runs a firmware that supports Firmata protocol.
+The firmware has to implement callbacks for CAPABILITY_QUERY, PIN_STATE_QUERY and ANALOG_MAPPING_QUERY in order for the initialization to work.
+Jun 23, 2020 5:02:13 PM com.dhahaj.Main$7$1 run
+SEVERE: null
+java.io.IOException: Cannot start firmata device
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:65)
+	at org.firmata4j.firmata.FirmataDevice.start(FirmataDevice.java:178)
+	at com.dhahaj.Main$7$1.run(Main.java:404)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: jssc.SerialPortException: Port name - COM8; Method name - openPort(); Exception type - Port busy.
+	at jssc.SerialPort.openPort(SerialPort.java:162)
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:56)
+	... 16 more
+
+Jun 23, 2020 5:02:18 PM com.dhahaj.Main$7$1 run
+SEVERE: null
+java.io.IOException: Cannot start firmata device
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:65)
+	at org.firmata4j.firmata.FirmataDevice.start(FirmataDevice.java:178)
+	at com.dhahaj.Main$7$1.run(Main.java:404)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: jssc.SerialPortException: Port name - COM8; Method name - openPort(); Exception type - Port busy.
+	at jssc.SerialPort.openPort(SerialPort.java:162)
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:56)
+	... 16 more
+
+Jun 23, 2020 5:02:28 PM com.dhahaj.Main$7$1 run
+SEVERE: null
+java.io.IOException: Cannot start firmata device
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:65)
+	at org.firmata4j.firmata.FirmataDevice.start(FirmataDevice.java:178)
+	at com.dhahaj.Main$7$1.run(Main.java:404)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: jssc.SerialPortException: Port name - COM3; Method name - openPort(); Exception type - Port busy.
+	at jssc.SerialPort.openPort(SerialPort.java:162)
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:56)
+	... 16 more
+
+Jun 23, 2020 5:03:34 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 5:03:34 PM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 23, 2020 5:04:47 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 5:06:03 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 5:06:03 PM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 23, 2020 5:06:55 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 5:06:57 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 5:07:44 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 5:07:49 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 5:09:02 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 5:09:02 PM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 23, 2020 5:55:56 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 5:55:57 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 5:56:27 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 5:56:33 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 5:56:33 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 5:57:08 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 5:57:18 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 5:57:20 PM com.dhahaj.Main lambda$main$12
+INFO: Testing started.
+Jun 23, 2020 5:57:55 PM com.dhahaj.Main lambda$main$12
+INFO: Testing finished.
+Jun 23, 2020 5:57:55 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 5:57:55 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 5:58:08 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 5:58:13 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 5:59:16 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 5:59:16 PM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 23, 2020 5:59:32 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 5:59:32 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 5:59:34 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 5:59:53 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 5:59:53 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:00:09 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:00:29 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:00:29 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:00:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:01:38 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 6:01:38 PM com.dhahaj.Main doLogout
+INFO: Not Logged In user logged off.
+Jun 23, 2020 6:03:51 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:03:51 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:03:55 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:04:02 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:04:02 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:06:13 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:06:29 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:06:29 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:07:23 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:07:38 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:07:38 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:07:44 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:07:48 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:08:40 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:08:53 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:08:54 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:09:47 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:09:49 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:09:50 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:10:13 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:10:15 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:10:16 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:10:38 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:10:40 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:10:40 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:10:55 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:11:07 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:11:18 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:11:18 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:11:47 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:11:58 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:11:59 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:12:16 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:12:23 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:12:30 PM com.dhahaj.Main lambda$main$12
+INFO: Testing started.
+Jun 23, 2020 6:13:05 PM com.dhahaj.Main lambda$main$12
+INFO: Testing finished.
+Jun 23, 2020 6:13:06 PM com.dhahaj.Main lambda$main$12
+INFO: Testing started.
+Jun 23, 2020 6:13:07 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:13:07 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:13:12 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:13:18 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:13:21 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:13:21 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:13:41 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:13:45 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:13:47 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:13:48 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:14:02 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:14:05 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:14:14 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:14:15 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:14:47 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:14:53 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:14:54 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:15:15 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:15:20 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:15:20 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:15:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:15:52 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:15:53 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:16:18 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:16:22 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:16:28 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:16:29 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:16:45 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:16:51 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:16:52 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:17:03 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:17:10 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:17:17 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:17:17 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:17:21 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:17:31 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:17:32 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:19:06 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:19:12 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:19:13 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:19:54 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:20:20 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:20:20 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:21:40 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:22:01 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:22:01 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:22:46 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:22:59 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:23:00 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:24:04 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:24:52 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:24:53 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:26:10 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:26:26 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:26:28 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:27:32 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:27:45 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:27:46 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:28:06 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:28:14 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:28:15 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:28:36 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:28:56 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:28:56 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:32:02 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:32:05 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:32:36 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: new
+Jun 23, 2020 6:32:47 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: new
+Jun 23, 2020 6:33:01 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: new2
+Jun 23, 2020 6:33:09 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:33:09 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:34:27 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:34:31 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: new2
+Jun 23, 2020 6:35:54 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 6:35:54 PM com.dhahaj.Main doLogout
+INFO: new2 user logged off.
+Jun 23, 2020 6:35:59 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:36:00 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:36:02 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:36:08 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: new
+Jun 23, 2020 6:36:47 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:37:01 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:37:39 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:38:04 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: new
+Jun 23, 2020 6:39:07 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 6:39:07 PM com.dhahaj.Main doLogout
+INFO: new user logged off.
+Jun 23, 2020 6:39:12 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:39:12 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:39:15 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:39:18 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: new
+Jun 23, 2020 6:39:30 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:40:24 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:40:25 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:42:23 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:42:34 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:43:06 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:43:07 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:43:48 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:43:56 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:45:22 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:45:23 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:45:25 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:45:27 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:46:16 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:46:16 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:46:18 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:46:21 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:48:07 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:48:07 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:48:09 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:48:13 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:49:48 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 6:49:48 PM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 23, 2020 6:50:10 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:50:10 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:50:13 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:50:17 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:50:39 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:50:39 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:51:38 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:51:45 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:53:12 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 6:53:12 PM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 23, 2020 6:55:12 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:55:13 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:55:15 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:55:25 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:56:02 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:56:02 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:56:19 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:56:26 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:57:43 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:57:43 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 6:57:45 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 6:57:49 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 6:58:08 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 6:58:08 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 7:00:39 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 7:00:43 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 7:01:32 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: admin
+Jun 23, 2020 7:01:49 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 7:02:02 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 7:02:03 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 7:02:05 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 7:02:08 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 7:02:08 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 7:51:39 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 7:51:53 PM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jun 23, 2020 7:51:59 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 7:52:04 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 7:52:05 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 7:55:36 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 7:55:38 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 7:55:43 PM com.dhahaj.Main main
+WARNING: Cannot start firmata device
+Jun 23, 2020 7:56:48 PM com.dhahaj.Main lambda$main$12
+INFO: Testing started.
+Jun 23, 2020 7:57:02 PM com.dhahaj.Main lambda$main$12
+INFO: Testing finished.
+Jun 23, 2020 7:57:04 PM com.dhahaj.Main lambda$main$12
+INFO: Testing started.
+Jun 23, 2020 7:57:14 PM com.dhahaj.Main lambda$main$12
+INFO: Testing finished.
+Jun 23, 2020 7:57:21 PM com.dhahaj.Main lambda$main$12
+INFO: Testing started.
+Jun 23, 2020 7:57:26 PM com.dhahaj.Main lambda$main$12
+INFO: Testing finished.
+Jun 23, 2020 7:57:28 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 7:57:28 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 7:58:48 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 7:58:50 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 7:58:53 PM com.dhahaj.Main lambda$main$12
+INFO: Testing started.
+Jun 23, 2020 7:59:02 PM com.dhahaj.Main lambda$main$12
+INFO: Testing finished.
+Jun 23, 2020 7:59:05 PM com.dhahaj.Main lambda$main$12
+INFO: Testing started.
+Jun 23, 2020 7:59:10 PM com.dhahaj.Main lambda$main$12
+INFO: Testing finished.
+Jun 23, 2020 8:00:10 PM com.dhahaj.Main lambda$intializeWindow$13
+INFO: User auto logoff.
+Jun 23, 2020 8:00:10 PM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 23, 2020 8:05:33 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 8:05:34 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 8:05:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 8:05:50 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 8:06:07 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: NEW
+Jun 23, 2020 8:06:26 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 8:06:34 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 8:06:34 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 8:07:40 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 8:07:44 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 8:07:50 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 8:08:14 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 8:08:22 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 8:08:46 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 8:09:10 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: NEW
+Jun 23, 2020 8:09:33 PM com.dhahaj.Main lambda$main$12
+INFO: Testing started.
+Jun 23, 2020 8:09:39 PM com.dhahaj.Main lambda$main$12
+INFO: Testing finished.
+Jun 23, 2020 8:10:04 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 8:10:04 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 23, 2020 8:10:09 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 23, 2020 8:10:13 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: NEW
+Jun 23, 2020 8:10:26 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 23, 2020 8:10:27 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 23, 2020 8:10:28 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.

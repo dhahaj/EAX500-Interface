@@ -1,0 +1,206 @@
+Jun 20, 2020 11:03:43 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 20, 2020 11:03:45 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 20, 2020 11:03:49 AM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 20, 2020 11:03:54 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 20, 2020 11:03:54 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 20, 2020 11:10:18 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 20, 2020 11:10:20 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 20, 2020 11:10:24 AM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 20, 2020 11:10:31 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 20, 2020 11:10:32 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 20, 2020 11:13:52 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 20, 2020 11:13:54 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 20, 2020 11:13:58 AM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 20, 2020 11:13:59 AM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 20, 2020 11:14:05 AM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 20, 2020 11:14:09 AM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 20, 2020 11:15:10 AM com.dhahaj.Main lambda$null$8
+INFO: User auto logoff.
+Jun 20, 2020 11:15:10 AM com.dhahaj.Main doLogout
+INFO: TEST user logged off.
+Jun 20, 2020 11:15:58 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 20, 2020 11:15:58 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 20, 2020 11:16:01 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 20, 2020 11:16:03 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 20, 2020 11:16:08 AM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 20, 2020 11:16:11 AM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 20, 2020 11:16:14 AM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 20, 2020 11:16:19 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 20, 2020 11:16:20 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 20, 2020 11:19:05 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 20, 2020 11:19:09 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 20, 2020 11:19:11 AM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 20, 2020 11:19:39 AM com.dhahaj.Main$7 actionPerformed
+SEVERE: null
+java.io.IOException: Cannot start firmata device
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:65)
+	at org.firmata4j.firmata.FirmataDevice.start(FirmataDevice.java:178)
+	at com.dhahaj.Main$7.actionPerformed(Main.java:415)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.AbstractButton.doClick(AbstractButton.java:376)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:842)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:886)
+	at java.awt.Component.processMouseEvent(Component.java:6539)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6304)
+	at java.awt.Container.processEvent(Container.java:2239)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4904)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4476)
+	at java.awt.Container.dispatchEventImpl(Container.java:2283)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: jssc.SerialPortException: Port name - COM3; Method name - openPort(); Exception type - Port busy.
+	at jssc.SerialPort.openPort(SerialPort.java:162)
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:56)
+	... 40 more
+
+Jun 20, 2020 11:19:43 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 20, 2020 11:19:50 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 20, 2020 11:21:14 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 20, 2020 11:21:18 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 20, 2020 11:21:20 AM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 20, 2020 11:21:47 AM com.dhahaj.Main$7 actionPerformed
+SEVERE: null
+java.io.IOException: Cannot start firmata device
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:65)
+	at org.firmata4j.firmata.FirmataDevice.start(FirmataDevice.java:178)
+	at com.dhahaj.Main$7.actionPerformed(Main.java:415)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.AbstractButton.doClick(AbstractButton.java:376)
+	at javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:842)
+	at javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:886)
+	at java.awt.Component.processMouseEvent(Component.java:6539)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6304)
+	at java.awt.Container.processEvent(Container.java:2239)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2297)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4904)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4476)
+	at java.awt.Container.dispatchEventImpl(Container.java:2283)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:84)
+	at java.awt.EventQueue$4.run(EventQueue.java:733)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: jssc.SerialPortException: Port name - COM3; Method name - openPort(); Exception type - Port not found.
+	at jssc.SerialPort.openPort(SerialPort.java:165)
+	at org.firmata4j.transport.SerialTransport.start(SerialTransport.java:56)
+	... 40 more
+
+Jun 20, 2020 11:21:51 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 20, 2020 11:21:52 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 20, 2020 11:24:41 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 20, 2020 11:24:42 AM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 20, 2020 11:24:44 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 20, 2020 11:24:45 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 20, 2020 11:25:09 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 20, 2020 11:25:15 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 20, 2020 11:25:25 AM com.dhahaj.Main$14 actionPerformed
+INFO: Testing started.
+Jun 20, 2020 11:25:35 AM com.dhahaj.Main$14 actionPerformed
+INFO: Testing finished.
+Jun 20, 2020 11:25:40 AM com.dhahaj.Main$12 done
+INFO: Programming Device:EAX300, Return Value=2
+Jun 20, 2020 11:25:44 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 20, 2020 11:25:45 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 20, 2020 11:26:11 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 20, 2020 11:26:18 AM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 20, 2020 11:26:20 AM com.dhahaj.Main$14 actionPerformed
+INFO: Testing started.
+Jun 20, 2020 11:26:40 AM com.dhahaj.Main$14 actionPerformed
+INFO: Testing finished.
+Jun 20, 2020 11:26:41 AM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 20, 2020 11:26:41 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.

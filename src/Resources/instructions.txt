@@ -1,0 +1,16 @@
+****** EAX-500 Testing Software *******
+Equipment Needed:
+	1) T-683 Test Base
+	2) EAX-500 Test Head
+	3) Assembled 102618 PWA
+Setup instructions for the EAX-500 Tester:
+	1) Head unit is connected and secured to the test fixture.
+	2) PWA is clamped down on the head unit.
+	3) Test base is powered and power LED is ON.
+	4) Test fixture is connected to the computer.
+	5) Battery clip on PWA is connected to the test head battery connector.
+	6) Turn both slide switches to the OFF position.
+
+Select a program from the device menu (e.g. EAX500, EAX525, etc.)
+  - Press the "Program" button to program the board.
+  - Press the "Test" button to start begin testing.

@@ -1,0 +1,670 @@
+Jun 09, 2020 11:41:45 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 11:41:50 AM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 09, 2020 11:41:54 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 11:42:03 AM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 11:42:09 AM com.dhahaj.Main$5 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:42:20 AM com.dhahaj.Main$5 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:42:24 AM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 11:42:25 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 11:47:29 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 11:47:37 AM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 11:47:41 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:47:46 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:47:53 AM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 11:47:53 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 11:48:26 AM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 11:48:33 AM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 11:48:38 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:48:43 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:48:47 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:49:47 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:50:12 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:51:12 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:52:12 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:52:55 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:52:56 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:53:26 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:53:27 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:53:41 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:53:46 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:54:46 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:54:48 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:55:06 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 11:55:16 AM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 11:55:19 AM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 11:55:26 AM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 11:55:27 AM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:02:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:02:47 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:02:51 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 12:03:34 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:03:34 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:03:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:03:44 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:03:48 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 12:04:48 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 12:06:30 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:06:30 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:06:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:06:47 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:06:48 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:09:35 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:09:50 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:09:50 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:10:14 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:10:33 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:10:35 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 12:10:45 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 12:11:35 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:11:35 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:11:39 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:11:45 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:11:50 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 12:12:03 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 12:12:13 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:12:14 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:12:23 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:13:04 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:13:14 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:13:18 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:13:39 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 12:13:55 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 12:13:57 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:13:57 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:15:47 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:15:52 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:16:01 PM com.dhahaj.Main$6 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 12:17:52 PM com.dhahaj.Main lambda$null$6
+INFO: User auto logoff.
+Jun 09, 2020 12:17:52 PM com.dhahaj.Main doLogout
+INFO: User logged out.
+Jun 09, 2020 12:20:35 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:20:35 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:20:39 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:20:48 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:22:48 PM com.dhahaj.Main lambda$null$6
+INFO: User auto logoff.
+Jun 09, 2020 12:22:48 PM com.dhahaj.Main doLogout
+INFO: User logged out.
+Jun 09, 2020 12:23:46 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:23:46 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:23:51 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:24:46 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:25:24 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:25:25 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:26:18 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:29:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:29:46 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:30:13 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:30:14 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:30:19 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:30:30 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:30:31 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:32:02 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:32:35 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:32:36 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:32:41 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:32:45 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:32:46 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:35:31 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:36:33 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:37:31 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:37:32 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:37:35 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:38:27 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:38:28 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:39:49 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:39:57 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:40:39 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:40:40 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:42:04 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:42:14 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:42:14 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:44:53 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:44:59 PM com.dhahaj.Main$3 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:45:03 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 12:45:24 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 12:45:29 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 12:45:43 PM com.dhahaj.Main$8 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 12:45:45 PM com.dhahaj.Main$2 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:45:47 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:49:25 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:49:37 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:49:37 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:49:56 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:50:09 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:50:11 PM com.dhahaj.Main$9 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 12:50:18 PM com.dhahaj.Main$9 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 12:50:25 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:50:26 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:50:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:50:48 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:50:49 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:50:53 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:51:14 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:51:14 PM com.dhahaj.Main$9 actionPerformed
+INFO: Testing started.
+Jun 09, 2020 12:51:20 PM com.dhahaj.Main$9 actionPerformed
+INFO: Testing finished.
+Jun 09, 2020 12:51:47 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:51:47 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 12:52:38 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 12:52:41 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 12:52:46 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 12:52:51 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 12:52:56 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 12:52:58 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 12:53:02 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 12:53:03 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 3:32:10 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 3:32:18 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 3:32:21 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 3:33:04 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 3:33:04 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 6:53:35 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 6:53:46 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 6:53:52 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 6:53:53 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 6:54:37 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 6:55:04 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 6:55:04 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 6:55:07 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 6:55:32 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 6:55:33 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 6:55:35 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 6:55:47 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 6:55:52 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 6:55:55 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 6:56:01 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 6:56:04 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 6:56:13 PM com.dhahaj.Main$7 done
+INFO: Programming Device:No Device Selected, Return Value=255
+Jun 09, 2020 6:56:19 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 6:56:24 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 6:56:24 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 6:58:28 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 6:58:31 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 6:58:49 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 6:58:54 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 6:58:58 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 6:58:59 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:00:20 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:00:25 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 7:00:38 PM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 09, 2020 7:00:44 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:00:49 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 7:00:52 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 7:01:14 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:01:14 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:01:33 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:01:37 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:01:38 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:02:04 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:02:17 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:02:18 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:02:29 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:02:33 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:02:34 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:02:43 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:02:51 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:02:51 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:02:54 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:02:59 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:02:59 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:03:04 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:03:10 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:03:10 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:03:13 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:03:20 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:03:21 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:32:11 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:32:26 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:32:26 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:32:29 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:32:46 PM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 09, 2020 7:32:53 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:33:03 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:33:03 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:33:14 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:33:28 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:33:29 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:33:54 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:34:07 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:34:07 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:35:03 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:35:20 PM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 09, 2020 7:35:22 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:35:29 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:35:29 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:36:44 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:36:59 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:36:59 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:38:57 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:39:15 PM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 09, 2020 7:39:50 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:40:10 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 7:40:15 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:40:16 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:42:07 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:42:17 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 7:42:19 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 7:42:31 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 7:42:41 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:42:42 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:44:07 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:44:18 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 7:44:23 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:44:24 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:44:26 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:44:51 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:44:52 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:45:57 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:46:06 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 7:46:34 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:46:34 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:47:14 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:47:26 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:47:26 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:47:51 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:48:28 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:48:30 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:48:55 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:49:05 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:49:11 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:49:12 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:50:58 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:51:10 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 7:51:19 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:51:20 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:52:55 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:53:12 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:53:12 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:53:52 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:54:13 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:54:14 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:54:48 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:55:36 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:55:36 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:56:08 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:56:27 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:56:28 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:56:50 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:57:20 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 7:57:26 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:57:26 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:57:42 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:58:11 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:58:11 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:58:32 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:58:49 PM com.dhahaj.Main main
+WARNING: Error connecting to tester.
+Jun 09, 2020 7:59:08 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 7:59:18 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 7:59:18 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 7:59:53 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:00:05 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:00:05 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:00:38 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:00:45 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:00:46 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:01:01 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:01:19 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:01:20 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:02:09 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:02:24 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 8:02:31 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 8:02:43 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:02:43 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:02:52 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:03:07 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:03:08 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:03:16 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:03:58 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:03:59 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:05:59 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:06:06 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 8:06:13 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:06:14 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:06:45 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:06:52 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 8:07:11 PM com.dhahaj.Main$7 done
+INFO: Programming Device:EAX500, Return Value=2
+Jun 09, 2020 8:07:12 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:07:12 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:07:19 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:07:26 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 8:07:36 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:07:36 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:08:34 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:08:41 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:08:42 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
+Jun 09, 2020 8:08:44 PM com.dhahaj.Main main
+INFO: Software starting.
+Jun 09, 2020 8:08:52 PM com.dhahaj.Main$4 actionPerformed
+INFO: User Login Event: TEST
+Jun 09, 2020 8:09:26 PM com.dhahaj.Main$3 windowClosing
+INFO: windowClosing
+Jun 09, 2020 8:09:27 PM com.dhahaj.Main confirmExit
+INFO: Software Closing.
